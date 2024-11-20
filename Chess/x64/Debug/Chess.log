@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Егор\source\repos\Chess\Chess\draw.h(55,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\source\repos\Chess\Chess\draw.h(55,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\source\repos\Chess\Chess\draw.h(65,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\source\repos\Chess\Chess\draw.h(65,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\source\repos\Chess\Chess\draw.h(77,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\source\repos\Chess\Chess\draw.h(77,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\source\repos\Chess\Chess\global.h(244): warning C4715: rightMove: значение возвращается не при всех путях выполнения
+C:\Users\Егор\source\repos\Chess\Chess\TextureLoader.h(59): warning C4715: TextureLoader::operator(): значение возвращается не при всех путях выполнения
+  Chess.vcxproj -> C:\Users\Егор\source\repos\Chess\x64\Debug\Chess.exe
